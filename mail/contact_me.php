@@ -1,4 +1,7 @@
 <?php
+//
+//WE ARE USING FormSpree.io for our static site when contact form is submitted instead of this server side code here!!!
+//
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
