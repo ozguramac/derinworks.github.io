@@ -1,6 +1,6 @@
-# [Derin Works LLC - Software Consulting](http://www.derin-works.com)
+# [Derin Works LLC - Software Consulting](http://www.derinworksllc.com)
 
-[Derin Works LLC - Software Consulting](http://www.derin-works.com) is a one page portfolio marketing site for [Derin Works LLC](http://www.derin-works.com) created from a [Start Bootstrap](http://startbootstrap.com/) template.
+[Derin Works LLC - Software Consulting](http://www.derinworksllc.com) is a one page portfolio marketing site for [Derin Works LLC](http://www.derinworksllc.com) created from a [Start Bootstrap](http://startbootstrap.com/) template.
 
 ## Status
 
